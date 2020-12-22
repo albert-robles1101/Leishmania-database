@@ -1,0 +1,130 @@
+PMID- 27463422
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170206
+LR  - 20170206
+IS  - 1097-0282 (Electronic)
+IS  - 0006-3525 (Linking)
+VI  - 105
+IP  - 12
+DP  - 2016 Dec
+TI  - Ocellatin-PT antimicrobial peptides: High-resolution microscopy studies in 
+      antileishmania models and interactions with mimetic membrane systems.
+PG  - 873-86
+LID - 10.1002/bip.22925 [doi]
+AB  - Although the mechanism of action of antimicrobial peptides (AMPs) is not clear, they 
+      can interact electrostatically with the cell membranes of microorganisms. New 
+      ocellatin-PT peptides were recently isolated from the skin secretion of 
+      Leptodactylus pustulatus. The secondary structure of these AMPs and their effect on 
+      Leishmania infantum cells, and on different lipid surface models was characterized 
+      in this work. The results showed that all ocellatin-PT peptides have an α-helix 
+      structure and five of them (PT3, PT4, PT6 to PT8) have leishmanicidal activity; PT1 
+      and PT2 affected the cellular morphology of the parasites and showed greater 
+      affinity for leishmania and bacteria-mimicking lipid membranes than for those of 
+      mammals. The results show selectivity of ocellatin-PTs to the membranes of 
+      microorganisms and the applicability of biophysical methods to clarify the 
+      interaction of AMPs with cell membranes.
+CI  - © 2016 Wiley Periodicals, Inc.
+FAU - Oliveira, Mayara
+AU  - Oliveira M
+AD  - Programa de Pós-Graduação em Medicina Tropical, Núcleo de Medicina Tropical, NMT, 
+      Faculdade de Medicina, Universidade de Brasília, Brasília, DF, Brazil.
+AD  - Instituto de Investigação e Inovação em Saúde, Universidade do Porto, Porto, 4200, 
+      Portugal.
+FAU - Gomes-Alves, Ana Georgina
+AU  - Gomes-Alves AG
+AD  - IBMC, Instituto de Biologia Molecular e Celular, Universidade do Porto, Porto, 
+      Portugal.
+AD  - UCIBIO, REQUIMTE, Departamento de Química e Bioquímica, Faculdade de Ciências, 
+      Universidade do Porto, Porto, Portugal.
+AD  - CEB, Centro de Engenharia Biológica, Universidade do Minho, Campus de Gualtar, 
+      Braga, 4710-057, Portugal.
+FAU - Sousa, Carla
+AU  - Sousa C
+AD  - Instituto de Investigação e Inovação em Saúde, Universidade do Porto, Porto, 4200, 
+      Portugal.
+FAU - Mirta Marani, Mariela
+AU  - Mirta Marani M
+AD  - PEEC ? CONICET, Consejo Nacional de Investigaciones Científicas y Técnicas, Puerto 
+      Madryn, Chubut, Argentina.
+FAU - Plácido, Alexandra
+AU  - Plácido A
+AD  - REQUIMTE/LAQV, Instituto Superior de Engenharia do Instituto Politécnico do Porto, 
+      Porto, Portugal.
+FAU - Vale, Nuno
+AU  - Vale N
+AD  - Instituto de Investigação e Inovação em Saúde, Universidade do Porto, Porto, 4200, 
+      Portugal.
+FAU - Delerue-Matos, Cristina
+AU  - Delerue-Matos C
+AD  - REQUIMTE/LAQV, Instituto Superior de Engenharia do Instituto Politécnico do Porto, 
+      Porto, Portugal.
+FAU - Gameiro, Paula
+AU  - Gameiro P
+AD  - Instituto de Investigação e Inovação em Saúde, Universidade do Porto, Porto, 4200, 
+      Portugal.
+FAU - Kückelhaus, Selma A S
+AU  - Kückelhaus SA
+AD  - Programa de Pós-Graduação em Medicina Tropical, Núcleo de Medicina Tropical, NMT, 
+      Faculdade de Medicina, Universidade de Brasília, Brasília, DF, Brazil.
+AD  - Departmento de Morfologia, Faculdade de Medicina, Universidade de Brasília, 
+      Brasilia, Brazil.
+FAU - Tomas, Ana M
+AU  - Tomas AM
+AD  - IBMC, Instituto de Biologia Molecular e Celular, Universidade do Porto, Porto, 
+      Portugal.
+AD  - UCIBIO, REQUIMTE, Departamento de Química e Bioquímica, Faculdade de Ciências, 
+      Universidade do Porto, Porto, Portugal.
+AD  - ICBAS, Instituto de Ciencias Biomedicas Abel Salazar, Universidade do Porto, Porto, 
+      Portugal.
+FAU - S A Leite, José Roberto
+AU  - S A Leite JR
+AD  - Instituto de Investigação e Inovação em Saúde, Universidade do Porto, Porto, 4200, 
+      Portugal.
+AD  - Departmento de Morfologia, Faculdade de Medicina, Universidade de Brasília, 
+      Brasilia, Brazil.
+AD  - Núcleo de Pesquisa em Biodiversidade e Biotecnologia, Biotec, Campus Ministro Reis 
+      Velloso, Universidade Federal do Piauí, UFPI, Parnaiba, PI, Brazil.
+FAU - Eaton, Peter
+AU  - Eaton P
+AD  - Instituto de Investigação e Inovação em Saúde, Universidade do Porto, Porto, 4200, 
+      Portugal. peter.eaton@fc.up.pt.
+AD  - Núcleo de Pesquisa em Biodiversidade e Biotecnologia, Biotec, Campus Ministro Reis 
+      Velloso, Universidade Federal do Piauí, UFPI, Parnaiba, PI, Brazil. 
+      peter.eaton@fc.up.pt.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Biopolymers
+JT  - Biopolymers
+JID - 0372525
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Antiprotozoal Agents)
+RN  - 0 (Membrane Lipids)
+RN  - 0 (Membranes, Artificial)
+SB  - IM
+MH  - Antimicrobial Cationic Peptides/*chemistry
+MH  - Antiprotozoal Agents/*chemistry
+MH  - *Leishmania infantum
+MH  - Membrane Lipids/chemistry
+MH  - *Membranes, Artificial
+MH  - Protein Structure, Secondary
+OTO - NOTNLM
+OT  - Antimicrobial peptides
+OT  - Leishmania infantum
+OT  - atomic force microscopy
+OT  - lipid membranes
+OT  - scanning electron microscopy
+OT  - surface plasmon resonance
+EDAT- 2016/07/28 06:00
+MHDA- 2017/02/07 06:00
+CRDT- 2016/07/28 06:00
+PHST- 2016/05/27 00:00 [received]
+PHST- 2016/07/21 00:00 [revised]
+PHST- 2016/07/22 00:00 [accepted]
+PHST- 2016/07/28 06:00 [entrez]
+PHST- 2016/07/28 06:00 [pubmed]
+PHST- 2017/02/07 06:00 [medline]
+AID - 10.1002/bip.22925 [doi]
+PST - ppublish
+SO  - Biopolymers. 2016 Dec;105(12):873-86. doi: 10.1002/bip.22925.

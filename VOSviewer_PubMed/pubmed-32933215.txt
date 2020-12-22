@@ -1,0 +1,101 @@
+PMID- 32933215
+OWN - NLM
+STAT- In-Process
+LR  - 20201020
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 21
+IP  - 18
+DP  - 2020 Sep 13
+TI  - Functional Characterization of Temporin-SHe, a New Broad-Spectrum Antibacterial and 
+      Leishmanicidal Temporin-SH Paralog from the Sahara Frog (Pelophylax saharicus).
+LID - 10.3390/ijms21186713 [doi]
+LID - 6713
+AB  - Amphibian skin is a promising natural resource for antimicrobial peptides (AMPs), 
+      key effectors of innate immunity with attractive therapeutic potential to fight 
+      antibiotic-resistant pathogens. Our previous studies showed that the skin of the 
+      Sahara Frog (Pelophylax saharicus) contains broad-spectrum AMPs of the temporin 
+      family, named temporins-SH. Here, we focused our study on temporin-SHe, a 
+      temporin-SHd paralog that we have previously identified in this frog but was never 
+      structurally and functionally characterized. We synthesized and determined the 
+      structure of temporin-SHe. This non-amphipathic α-helical peptide was demonstrated 
+      to strongly destabilize the lipid chain packing of anionic multilamellar vesicles 
+      mimicking bacterial membranes. Investigation of the antimicrobial activity revealed 
+      that temporin-SHe targets Gram-negative and Gram-positive bacteria, including 
+      clinical isolates of multi-resistant Staphylococcus aureus strains. Temporin-SHe 
+      exhibited also antiparasitic activity toward different Leishmania species 
+      responsible for visceral leishmaniasis, as well as cutaneous and mucocutaneous 
+      forms. Functional assays revealed that temporin-SHe exerts bactericidal effects with 
+      membrane depolarization and permeabilization, via a membranolytic mechanism observed 
+      by scanning electron microscopy. Temporin-SHe represents a new member of the very 
+      limited group of antiparasitic temporins/AMPs. Despite its cytotoxicity, it is 
+      nevertheless an interesting tool to study the AMP antiparasitic mechanism and design 
+      new antibacterial/antiparasitic agents.
+FAU - André, Sonia
+AU  - André S
+AD  - Sorbonne Université, CNRS, Institut de Biologie Paris-Seine, IBPS, BIOSIPE, F-75252 
+      Paris, France.
+AD  - Cell death in host-pathogen interactions,CNRS-ERL3649, Université de Paris, 75006 
+      Paris, France.
+FAU - Raja, Zahid
+AU  - Raja Z
+AD  - Sorbonne Université, CNRS, Institut de Biologie Paris-Seine, IBPS, BIOSIPE, F-75252 
+      Paris, France.
+FAU - Humblot, Vincent
+AU  - Humblot V
+AUID- ORCID: 0000-0002-6266-3956
+AD  - FEMTO-ST Institute, UMR CNRS 6174, Université Bourgogne Franche-Comté, 25030 
+      Besançon CEDEX, France.
+FAU - Piesse, Christophe
+AU  - Piesse C
+AD  - Sorbonne Université, CNRS, Institut de Biologie Paris-Seine, IBPS, Peptide Synthesis 
+      Facility, F-75252 Paris, France.
+FAU - Foulon, Thierry
+AU  - Foulon T
+AD  - Sorbonne Université, CNRS, Institut de Biologie Paris-Seine, IBPS, BIOSIPE, F-75252 
+      Paris, France.
+FAU - Sereno, Denis
+AU  - Sereno D
+AUID- ORCID: 0000-0002-0034-9291
+AD  - IRD, Université de Montpellier, MiVegec, 34394 Montpellier CEDEX 5, France.
+AD  - IRD, Université de Montpellier, InterTryp, 34394 Montpellier CEDEX 5, France.
+FAU - Oury, Bruno
+AU  - Oury B
+AD  - IRD, Université de Montpellier, InterTryp, 34394 Montpellier CEDEX 5, France.
+FAU - Ladram, Ali
+AU  - Ladram A
+AUID- ORCID: 0000-0001-8582-1278
+AD  - Sorbonne Université, CNRS, Institut de Biologie Paris-Seine, IBPS, BIOSIPE, F-75252 
+      Paris, France.
+LA  - eng
+PT  - Journal Article
+DEP - 20200913
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+SB  - IM
+PMC - PMC7555312
+OTO - NOTNLM
+OT  - bacteria
+OT  - broad-spectrum activity
+OT  - frog antimicrobial peptide
+OT  - membrane disrupting mechanism
+OT  - parasites
+OT  - scanning electron microscopy
+OT  - secondary structure
+OT  - temporin-SHe
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/09/17 06:00
+MHDA- 2020/09/17 06:00
+CRDT- 2020/09/16 01:02
+PHST- 2020/08/08 00:00 [received]
+PHST- 2020/09/08 00:00 [revised]
+PHST- 2020/09/10 00:00 [accepted]
+PHST- 2020/09/16 01:02 [entrez]
+PHST- 2020/09/17 06:00 [pubmed]
+PHST- 2020/09/17 06:00 [medline]
+AID - ijms21186713 [pii]
+AID - ijms-21-06713 [pii]
+AID - 10.3390/ijms21186713 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2020 Sep 13;21(18):6713. doi: 10.3390/ijms21186713.

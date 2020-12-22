@@ -1,0 +1,139 @@
+PMID- 27058430
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170313
+LR  - 20170313
+IS  - 1873-5169 (Electronic)
+IS  - 0196-9781 (Linking)
+VI  - 79
+DP  - 2016 May
+TI  - Biochemical and biophysical combined study of bicarinalin, an ant venom 
+      antimicrobial peptide.
+PG  - 103-13
+LID - S0196-9781(16)30053-5 [pii]
+LID - 10.1016/j.peptides.2016.04.001 [doi]
+AB  - We have recently characterized bicarinalin as the most abundant peptide from the 
+      venom of the ant Tetramorium bicarinatum. This antimicrobial peptide is active 
+      against Staphylococcus and Enterobacteriaceae. To further investigate the 
+      antimicrobial properties of this cationic and cysteine-free peptide, we have studied 
+      its antibacterial, antifungal and antiparasitic activities on a large array of 
+      microorganisms. Bicarinalin was active against fifteen microorganisms with minimal 
+      inhibitory concentrations ranging from 2 and 25μmolL(-1). Cronobacter sakazakii, 
+      Salmonella enterica, Candida albicans, Aspergilus niger and Saccharomyces cerevisiae 
+      were particularly susceptible to this novel antimicrobial peptide. Resistant strains 
+      of Staphylococcus aureus, Pseudomonas aeruginosa and C. albicans were as susceptible 
+      as the canonical strains. Interestingly, bicarinalin was also active against the 
+      parasite Leishmania infantum with a minimal inhibitory concentrations of 2μmolL(-1). 
+      The bicarinalin pre-propeptide cDNA sequence has been determined using a combination 
+      of degenerated primers with RACE PCR strategy. Interestingly, the N-terminal domain 
+      of bicarinalin pre-propeptide exhibited sequence similarity with the pilosulin 
+      antimicrobial peptide family previously described in the Myrmecia venoms. Moreover, 
+      using SYTOX green uptake assay, we showed that, for all the tested microorganisms, 
+      bicarinalin acted through a membrane permeabilization mechanism. Two dimensional-NMR 
+      experiments showed that bicarinalin displayed a 10 residue-long α-helical structure 
+      flanked by two N- and C-terminal disordered regions. This partially amphipathic 
+      helix may explain the membrane permeabilization mechanism of bicarinalin observed in 
+      this study. Finally, therapeutic value of bicarinalin was highlighted by its low 
+      cytotoxicity against human lymphocytes at bactericidal concentrations and its long 
+      half-life in human serum which was around 15h.
+CI  - Copyright © 2016 Elsevier Inc. All rights reserved.
+FAU - Téné, Nathan
+AU  - Téné N
+AD  - Equipe EA 4357, VAcBio, Université de Toulouse, CUFR Champollion, Place de Verdun, 
+      81012 Albi, France.
+FAU - Bonnafé, Elsa
+AU  - Bonnafé E
+AD  - Equipe EA 4357, VAcBio, Université de Toulouse, CUFR Champollion, Place de Verdun, 
+      81012 Albi, France.
+FAU - Berger, Fanny
+AU  - Berger F
+AD  - Equipe EA 4357, VAcBio, Université de Toulouse, CUFR Champollion, Place de Verdun, 
+      81012 Albi, France.
+FAU - Rifflet, Aline
+AU  - Rifflet A
+AD  - Equipe EA 4357, VAcBio, Université de Toulouse, CUFR Champollion, Place de Verdun, 
+      81012 Albi, France.
+FAU - Guilhaudis, Laure
+AU  - Guilhaudis L
+AD  - Normandie Univ, COBRA, UMR 6014, IRIB, Université de Rouen, INSA de Rouen, CNRS, 
+      IRCOF, 1 rue Tesnière, 76821 Mont-Saint-Aignan, France.
+FAU - Ségalas-Milazzo, Isabelle
+AU  - Ségalas-Milazzo I
+AD  - Normandie Univ, COBRA, UMR 6014, IRIB, Université de Rouen, INSA de Rouen, CNRS, 
+      IRCOF, 1 rue Tesnière, 76821 Mont-Saint-Aignan, France.
+FAU - Pipy, Bernard
+AU  - Pipy B
+AD  - UMR 152-Pharma-Dev, Université de Toulouse, 31432 Toulouse, France.
+FAU - Coste, Agnès
+AU  - Coste A
+AD  - UMR 152-Pharma-Dev, Université de Toulouse, 31432 Toulouse, France.
+FAU - Leprince, Jérôme
+AU  - Leprince J
+AD  - Inserm U982, Laboratoire de Différenciation et Communication Neuronale et 
+      Neuroendocrine, Equipe Facteurs Neurotrophiques et Différenciation Neuronale, 
+      Plate-forme de Recherche en Imagerie Cellulaire de Haute-Normandie [PRIMACEN], IRIB, 
+      Université de Rouen, 76821 Mont-Saint-Aignan, France.
+FAU - Treilhou, Michel
+AU  - Treilhou M
+AD  - Equipe EA 4357, VAcBio, Université de Toulouse, CUFR Champollion, Place de Verdun, 
+      81012 Albi, France. Electronic address: michel.treilhou@univ-jfc.fr.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160404
+PL  - United States
+TA  - Peptides
+JT  - Peptides
+JID - 8008690
+RN  - 0 (Ant Venoms)
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Antifungal Agents)
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Antiprotozoal Agents)
+RN  - 0 (Insect Proteins)
+RN  - 0 (bicarinalin, Tetramorium bicarinatum)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Ant Venoms/chemistry/genetics/metabolism/*pharmacology
+MH  - Anti-Bacterial Agents/chemistry/metabolism/*pharmacology
+MH  - Antifungal Agents/chemistry/metabolism/*pharmacology
+MH  - Antimicrobial Cationic Peptides/chemistry/genetics/metabolism/*pharmacology
+MH  - Antiprotozoal Agents/chemistry/metabolism/*pharmacology
+MH  - *Ants
+MH  - Base Sequence
+MH  - Cell Membrane Permeability
+MH  - Cell Survival/drug effects
+MH  - Cells, Cultured
+MH  - Conserved Sequence
+MH  - Half-Life
+MH  - Humans
+MH  - Insect Proteins/chemistry/genetics/metabolism/pharmacology
+MH  - Lethal Dose 50
+MH  - Lymphocytes/drug effects/physiology
+MH  - Microbial Sensitivity Tests
+MH  - Models, Molecular
+MH  - Phylogeny
+MH  - Protein Structure, Secondary
+MH  - Proteolysis
+OTO - NOTNLM
+OT  - Ant venom
+OT  - Antimicrobial peptide
+OT  - Candida
+OT  - Leishmania
+OT  - Prepropeptide
+OT  - Salmonella
+OT  - Therapeutic index [TI]
+EDAT- 2016/04/09 06:00
+MHDA- 2017/03/14 06:00
+CRDT- 2016/04/09 06:00
+PHST- 2016/02/18 00:00 [received]
+PHST- 2016/03/31 00:00 [revised]
+PHST- 2016/04/01 00:00 [accepted]
+PHST- 2016/04/09 06:00 [entrez]
+PHST- 2016/04/09 06:00 [pubmed]
+PHST- 2017/03/14 06:00 [medline]
+AID - S0196-9781(16)30053-5 [pii]
+AID - 10.1016/j.peptides.2016.04.001 [doi]
+PST - ppublish
+SO  - Peptides. 2016 May;79:103-13. doi: 10.1016/j.peptides.2016.04.001. Epub 2016 Apr 4.

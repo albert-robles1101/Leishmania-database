@@ -1,0 +1,107 @@
+PMID- 31454702
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200224
+LR  - 20200224
+IS  - 1532-0456 (Print)
+IS  - 1532-0456 (Linking)
+VI  - 226
+DP  - 2019 Dec
+TI  - Potential use of 13-mer peptides based on phospholipase and oligoarginine as 
+      leishmanicidal agents.
+PG  - 108612
+LID - S1532-0456(19)30328-X [pii]
+LID - 10.1016/j.cbpc.2019.108612 [doi]
+AB  - Phospholipase A(2) toxins present in snake venoms interact with biological membranes 
+      and serve as structural models for the design of small peptides with anticancer, 
+      antibacterial and antiparasitic properties. Oligoarginine peptides are capable of 
+      increasing cell membrane permeability (cell penetrating peptides), and for this 
+      reason are interesting delivery systems for compounds of pharmacological interest. 
+      Inspired by these two families of bioactive molecules, we have synthesized two 
+      13-mer peptides as potential antileishmanial leads gaining insights into structural 
+      features useful for the future design of more potent peptides. The peptides included 
+      p-Acl, reproducing a natural segment of a Lys49 PLA(2) from Agkistrodon contortrix 
+      laticinctus snake venom, and its p-AclR7 analogue where all seven lysine residues 
+      were replaced by arginines. Both peptides were active against promastigote and 
+      amastigote forms of Leishmania (L.) amazonensis and L. (L.) infantum, while 
+      displaying low cytotoxicity for primary murine macrophages. Spectrofluorimetric 
+      studies suggest that permeabilization of the parasite's cell membrane is the 
+      probable mechanism of action of these biomolecules. Relevantly, the engineered 
+      peptide p-AclR7 was more active in both life stages of Leishmania and induced higher 
+      rates of ethidium bromide incorporation than its native template p-Acl. Taken 
+      together, the results suggest that short peptides based on phospholipase toxins are 
+      potential scaffolds for development of antileishmanial candidates. Moreover, 
+      specific amino acid substitutions, such those herein employed, may enhance the 
+      antiparasitic action of these cationic peptides, encouraging their future biomedical 
+      applications.
+CI  - Copyright © 2019 Elsevier Inc. All rights reserved.
+FAU - Mendes, Bruno
+AU  - Mendes B
+AD  - Departamento de Biologia Animal, Instituto de Biologia, Universidade Estadual de 
+      Campinas (UNICAMP), Campinas, São Paulo, Brazil.
+FAU - Almeida, José R
+AU  - Almeida JR
+AD  - Universidad Regional Amazónica Ikiam, Km 7 Via Muyuna, Tena, Napo, Ecuador.
+FAU - Vale, Nuno
+AU  - Vale N
+AD  - Laboratório de Farmacologia, Departamento de Ciências do Medicamento, Faculdade de 
+      Farmácia da Universidade do Porto, Portugal; IPATIMUP/Instituto de Investigação e 
+      Inovação em Saúde (i3S), Universidade do Porto, Portugal.
+FAU - Gomes, Paula
+AU  - Gomes P
+AD  - LAQV/REQUIMTE, Departamento de Química e Bioquímica, Faculdade de Ciências, 
+      Universidade do Porto, Portugal.
+FAU - Gadelha, Fernanda R
+AU  - Gadelha FR
+AD  - Departamento de Bioquímica e Biologia Tecidual, Instituto de Biologia, Universidade 
+      Estadual de Campinas (UNICAMP), Campinas, São Paulo, Brazil.
+FAU - Da Silva, Saulo L
+AU  - Da Silva SL
+AD  - Facultad de Ciencias Químicas, Universidad de Cuenca, Cuenca/Azuay, Ecuador.; Centro 
+      de Innovación de la Salud - EUS/EP, Cuenca/Azuay, Ecuador.
+FAU - Miguel, Danilo C
+AU  - Miguel DC
+AD  - Departamento de Biologia Animal, Instituto de Biologia, Universidade Estadual de 
+      Campinas (UNICAMP), Campinas, São Paulo, Brazil. Electronic address: 
+      dcmiguel@unicamp.br.
+LA  - eng
+PT  - Journal Article
+DEP - 20190824
+PL  - United States
+TA  - Comp Biochem Physiol C Toxicol Pharmacol
+JT  - Comparative biochemistry and physiology. Toxicology & pharmacology : CBP
+JID - 100959500
+RN  - 0 (Crotalid Venoms)
+RN  - 0 (Peptides)
+RN  - EC 3.1.1.4 (Phospholipases A2)
+SB  - IM
+MH  - Agkistrodon/metabolism
+MH  - Animals
+MH  - Cells, Cultured
+MH  - Crotalid Venoms/chemical synthesis/*pharmacology
+MH  - Leishmania infantum/*drug effects
+MH  - Leishmaniasis, Visceral/*drug therapy
+MH  - Macrophages/cytology/*drug effects
+MH  - Mice
+MH  - Mice, Inbred BALB C
+MH  - Peptides/chemical synthesis/*pharmacology
+MH  - Phospholipases A2/*pharmacology
+OTO - NOTNLM
+OT  - Leishmanicidal activity
+OT  - Oligoarginine
+OT  - Peptide
+OT  - Phospholipase
+EDAT- 2019/08/28 06:00
+MHDA- 2020/02/25 06:00
+CRDT- 2019/08/28 06:00
+PHST- 2019/07/19 00:00 [received]
+PHST- 2019/08/21 00:00 [revised]
+PHST- 2019/08/22 00:00 [accepted]
+PHST- 2019/08/28 06:00 [pubmed]
+PHST- 2020/02/25 06:00 [medline]
+PHST- 2019/08/28 06:00 [entrez]
+AID - S1532-0456(19)30328-X [pii]
+AID - 10.1016/j.cbpc.2019.108612 [doi]
+PST - ppublish
+SO  - Comp Biochem Physiol C Toxicol Pharmacol. 2019 Dec;226:108612. doi: 
+      10.1016/j.cbpc.2019.108612. Epub 2019 Aug 24.

@@ -1,0 +1,72 @@
+PMID- 12615333
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030711
+LR  - 20190822
+IS  - 0166-6851 (Print)
+IS  - 0166-6851 (Linking)
+VI  - 127
+IP  - 1
+DP  - 2003 Mar
+TI  - Induction of autophagic cell death in Leishmania donovani by antimicrobial peptides.
+PG  - 23-35
+AB  - We demonstrate that antimicrobial peptides induce an autophagic cell death in the 
+      protozoan pathogen, Leishmania donovani. In our study, three antimicrobial peptides, 
+      Indolicidin, and two peptides derived from Seminalplasmin exhibit antileishmanial 
+      activity with a 50% lethal dose of 3.5 x 10(-5), 3.8 x 10(-4) and 1.7 x 10(-8) 
+      microM, respectively. The action of these antimicrobial peptides on the Leishmania 
+      cell involves ionic interactions, which are modulated by lipophosphoglycan on the 
+      parasite's surface. Peptide treatment caused dissipation of membrane potential and 
+      equilibration of intracellular pH with extracellular environment. However, there was 
+      no release of intracellular GFP molecules upon peptide treatment of a GFP expressing 
+      Leishmania clone. Transmission electron microscopic studies show extensive 
+      intracellular damage including cytoplasmic vacuolization and degeneration of 
+      cellular organization without disruption of the plasma membrane. These peptides 
+      induce cell death via a non-apoptotic process as shown by lack of nuclear 
+      fragmentation or DNA laddering and independent of caspase-like activity. Instead, 
+      Monodansylcadaverine (MDC), a biochemical marker of autophagy specifically labels 
+      the vacuoles induced by peptides. Collectively, these results indicate that in 
+      addition to their effects on the leishmanial membrane, these antimicrobial peptides 
+      induce pathway(s) for autophagic cell death in L. donovani.
+FAU - Bera, Ananya
+AU  - Bera A
+AD  - Centre for Cellular and Molecular Biology, Uppal Road, Hyderabad 500007, India.
+FAU - Singh, Shashi
+AU  - Singh S
+FAU - Nagaraj, Ramakrishnan
+AU  - Nagaraj R
+FAU - Vaidya, Tushar
+AU  - Vaidya T
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Netherlands
+TA  - Mol Biochem Parasitol
+JT  - Molecular and biochemical parasitology
+JID - 8006324
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Antiprotozoal Agents)
+RN  - 0 (Seminal Vesicle Secretory Proteins)
+RN  - 073SBV429N (indolicidin)
+SB  - IM
+MH  - Animals
+MH  - Antimicrobial Cationic Peptides/*pharmacology
+MH  - Antiprotozoal Agents/*pharmacology
+MH  - Apoptosis/drug effects
+MH  - *Autophagy/physiology
+MH  - Cell Death/physiology
+MH  - Cell Membrane/drug effects/physiology
+MH  - Hydrogen-Ion Concentration
+MH  - Leishmania donovani/*drug effects/physiology/ultrastructure
+MH  - Life Cycle Stages/drug effects
+MH  - Seminal Vesicle Secretory Proteins/chemistry/classification/pharmacology
+EDAT- 2003/03/05 04:00
+MHDA- 2003/07/12 05:00
+CRDT- 2003/03/05 04:00
+PHST- 2003/03/05 04:00 [pubmed]
+PHST- 2003/07/12 05:00 [medline]
+PHST- 2003/03/05 04:00 [entrez]
+AID - S0166685102003006 [pii]
+AID - 10.1016/s0166-6851(02)00300-6 [doi]
+PST - ppublish
+SO  - Mol Biochem Parasitol. 2003 Mar;127(1):23-35. doi: 10.1016/s0166-6851(02)00300-6.

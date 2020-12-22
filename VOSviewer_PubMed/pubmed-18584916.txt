@@ -1,0 +1,98 @@
+PMID- 18584916
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20081027
+LR  - 20080818
+IS  - 0196-9781 (Print)
+IS  - 0196-9781 (Linking)
+VI  - 29
+IP  - 9
+DP  - 2008 Sep
+TI  - Isolation, characterization and molecular cloning of new temporins from the skin of 
+      the North African ranid Pelophylax saharica.
+PG  - 1526-33
+LID - 10.1016/j.peptides.2008.05.008 [doi]
+AB  - Temporins are small antimicrobial peptides isolated from North American and Eurasian 
+      ranid frogs that are particularly active against Gram-positive bacteria. To date, no 
+      temporins have been characterized from North African frog species. We isolated three 
+      novel members of the temporin family, named temporin-1Sa (FLSGIVGMLGKLF(amide)), 
+      -1Sb (FLPIVTNLLSGLL(amide)), and -1Sc (FLSHIAGFLSNLF(amide)), from the skin of the 
+      Sahara frog Pelophylax (Rana) saharica originating from Tunisia. These temporins 
+      were identified by a combined mass spectrometry/molecular cloning approach. 
+      Temporin-1Sa was found to be highly active against Gram-positive and Gram-negative 
+      bacteria, yeasts and fungi (MIC=2-30 microM). To our knowledge, this is the first 
+      13-residue member of the temporin family with a net charge of +2 that shows such 
+      broad-spectrum activity with particularly high potency on the clinically relevant 
+      Gram-negative strains, Escherichia coli (MIC=10 microM) and Pseudomonas aeruginosa 
+      (MIC=31 microM). Moreover, temporin-1Sa displays significant antiparasitic activity 
+      (IC50 approximately 20 microM) against the promastigote and amastigote stages of 
+      Leishmania infantum.
+FAU - Abbassi, Feten
+AU  - Abbassi F
+AD  - FRE 2852, Peptidome de la Peau des Amphibiens, Université Pierre et Marie 
+      Curie/CNRS, Tour 43, 2 place Jussieu, 75251 Paris Cedex 05, France.
+FAU - Oury, Bruno
+AU  - Oury B
+FAU - Blasco, Thierry
+AU  - Blasco T
+FAU - Sereno, Denis
+AU  - Sereno D
+FAU - Bolbach, Gérard
+AU  - Bolbach G
+FAU - Nicolas, Pierre
+AU  - Nicolas P
+FAU - Hani, Khaled
+AU  - Hani K
+FAU - Amiche, Mohamed
+AU  - Amiche M
+FAU - Ladram, Ali
+AU  - Ladram A
+LA  - eng
+SI  - GENBANK/AM748899
+SI  - GENBANK/AM748900
+SI  - GENBANK/AM748901
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20080518
+PL  - United States
+TA  - Peptides
+JT  - Peptides
+JID - 8008690
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Antifungal Agents)
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Antiprotozoal Agents)
+RN  - 0 (Hemolytic Agents)
+RN  - 0 (Proteins)
+RN  - 0 (temporin)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Anti-Bacterial Agents/pharmacology
+MH  - Antifungal Agents/pharmacology
+MH  - Antimicrobial Cationic Peptides/isolation & purification/pharmacology
+MH  - Antiprotozoal Agents/pharmacology
+MH  - Base Sequence
+MH  - Chromatography, High Pressure Liquid
+MH  - Cloning, Molecular
+MH  - Erythrocytes/drug effects
+MH  - Hemolytic Agents/pharmacology
+MH  - Humans
+MH  - Leishmania infantum/drug effects
+MH  - Molecular Sequence Data
+MH  - Proteins/chemistry/*isolation & purification
+MH  - *Ranidae
+EDAT- 2008/07/01 09:00
+MHDA- 2008/10/28 09:00
+CRDT- 2008/07/01 09:00
+PHST- 2008/04/13 00:00 [received]
+PHST- 2008/05/02 00:00 [revised]
+PHST- 2008/05/07 00:00 [accepted]
+PHST- 2008/07/01 09:00 [pubmed]
+PHST- 2008/10/28 09:00 [medline]
+PHST- 2008/07/01 09:00 [entrez]
+AID - S0196-9781(08)00218-0 [pii]
+AID - 10.1016/j.peptides.2008.05.008 [doi]
+PST - ppublish
+SO  - Peptides. 2008 Sep;29(9):1526-33. doi: 10.1016/j.peptides.2008.05.008. Epub 2008 May 
+      18.

@@ -1,0 +1,153 @@
+PMID- 28319176
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170829
+LR  - 20190208
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 12
+IP  - 3
+DP  - 2017
+TI  - Insight into the mechanism of action of temporin-SHa, a new broad-spectrum 
+      antiparasitic and antibacterial agent.
+PG  - e0174024
+LID - 10.1371/journal.pone.0174024 [doi]
+LID - e0174024
+AB  - Antimicrobial peptides (AMPs) are promising drugs to kill resistant pathogens. In 
+      contrast to bacteria, protozoan parasites, such as Leishmania, were little studied. 
+      Therefore, the antiparasitic mechanism of AMPs is still unclear. In this study, we 
+      sought to get further insight into this mechanism by focusing our attention on 
+      temporin-SHa (SHa), a small broad-spectrum AMP previously shown to be active against 
+      Leishmania infantum. To improve activity, we designed analogs of SHa and compared 
+      the antibacterial and antiparasitic mechanisms. [K3]SHa emerged as a highly potent 
+      compound active against a wide range of bacteria, yeasts/fungi, and trypanosomatids 
+      (Leishmania and Trypanosoma), with leishmanicidal intramacrophagic activity and 
+      efficiency toward antibiotic-resistant strains of S. aureus and antimony-resistant 
+      L. infantum. Multipassage resistance selection demonstrated that temporins-SH, 
+      particularly [K3]SHa, are not prone to induce resistance in Escherichia coli. 
+      Analysis of the mode of action revealed that bacterial and parasite killing occur 
+      through a similar membranolytic mechanism involving rapid membrane permeabilization 
+      and depolarization. This was confirmed by high-resolution imaging (atomic force 
+      microscopy and field emission gun-scanning electron microscopy). Multiple combined 
+      techniques (nuclear magnetic resonance, surface plasmon resonance, differential 
+      scanning calorimetry) allowed us to detail peptide-membrane interactions. [K3]SHa 
+      was shown to interact selectively with anionic model membranes with a 4-fold higher 
+      affinity (KD = 3 x 10-8 M) than SHa. The amphipathic α-helical peptide inserts 
+      in-plane in the hydrophobic lipid bilayer and disrupts the acyl chain packing via a 
+      detergent-like effect. Interestingly, cellular events, such as mitochondrial 
+      membrane depolarization or DNA fragmentation, were observed in L. infantum 
+      promastigotes after exposure to SHa and [K3]SHa at concentrations above IC50. Our 
+      results indicate that these temporins exert leishmanicidal activity via a primary 
+      membranolytic mechanism but can also trigger apoptotis-like death. The many assets 
+      demonstrated for [K3]SHa make this small analog an attractive template to develop 
+      new antibacterial/antiparasitic drugs.
+FAU - Raja, Zahid
+AU  - Raja Z
+AD  - Sorbonne Universités, UPMC Univ Paris 06, CNRS, Institut de Biologie Paris-Seine 
+      (IBPS), Biogenèse des Signaux Peptidiques (BIOSIPE), Paris, France.
+FAU - André, Sonia
+AU  - André S
+AD  - Sorbonne Universités, UPMC Univ Paris 06, CNRS, Institut de Biologie Paris-Seine 
+      (IBPS), Biogenèse des Signaux Peptidiques (BIOSIPE), Paris, France.
+FAU - Abbassi, Feten
+AU  - Abbassi F
+AD  - Sorbonne Universités, UPMC Univ Paris 06, CNRS, Institut de Biologie Paris-Seine 
+      (IBPS), Biogenèse des Signaux Peptidiques (BIOSIPE), Paris, France.
+FAU - Humblot, Vincent
+AU  - Humblot V
+AD  - Sorbonne Universités, UPMC Univ Paris 06, CNRS, Laboratoire de Réactivité de Surface 
+      (LRS), Paris, France.
+FAU - Lequin, Olivier
+AU  - Lequin O
+AUID- ORCID: 0000-0001-5307-3068
+AD  - Sorbonne Universités, UPMC Univ Paris 06, Ecole Normale Supérieure, CNRS, 
+      Laboratoire des Biomolécules, Paris, France.
+AD  - Department of Chemistry, Ecole Normale Supérieure, PSL Research University, UPMC 
+      Univ Paris 06, CNRS, Laboratoire des Biomolécules, Paris, France.
+FAU - Bouceba, Tahar
+AU  - Bouceba T
+AD  - Sorbonne Universités, UPMC Univ Paris 06, CNRS, Institut de Biologie Paris-Seine 
+      (IBPS), Plate-forme Interactions Moléculaires, Paris, France.
+FAU - Correia, Isabelle
+AU  - Correia I
+AD  - Sorbonne Universités, UPMC Univ Paris 06, Ecole Normale Supérieure, CNRS, 
+      Laboratoire des Biomolécules, Paris, France.
+AD  - Department of Chemistry, Ecole Normale Supérieure, PSL Research University, UPMC 
+      Univ Paris 06, CNRS, Laboratoire des Biomolécules, Paris, France.
+FAU - Casale, Sandra
+AU  - Casale S
+AD  - Sorbonne Universités, UPMC Univ Paris 06, CNRS, Laboratoire de Réactivité de Surface 
+      (LRS), Paris, France.
+FAU - Foulon, Thierry
+AU  - Foulon T
+AD  - Sorbonne Universités, UPMC Univ Paris 06, CNRS, Institut de Biologie Paris-Seine 
+      (IBPS), Biogenèse des Signaux Peptidiques (BIOSIPE), Paris, France.
+FAU - Sereno, Denis
+AU  - Sereno D
+AD  - Institut de Recherche pour le Développement (IRD), UMR 224 IRD-CNRS-Univ Montpellier 
+      1 et 2 Maladies infectieuses et Vecteurs: écologie, génétique, évolution et contrôle 
+      (MiVegec), Montpellier, France.
+AD  - IRD, UMR 177 IRD-CIRAD, Interactions Hôtes-Vecteurs-Parasites-Environnement dans les 
+      maladies tropicales négligées dues aux Trypanosomatidae (InterTryp), Montpellier, 
+      France.
+FAU - Oury, Bruno
+AU  - Oury B
+AD  - Institut de Recherche pour le Développement (IRD), UMR 224 IRD-CNRS-Univ Montpellier 
+      1 et 2 Maladies infectieuses et Vecteurs: écologie, génétique, évolution et contrôle 
+      (MiVegec), Montpellier, France.
+AD  - IRD, UMR 177 IRD-CIRAD, Interactions Hôtes-Vecteurs-Parasites-Environnement dans les 
+      maladies tropicales négligées dues aux Trypanosomatidae (InterTryp), Montpellier, 
+      France.
+FAU - Ladram, Ali
+AU  - Ladram A
+AD  - Sorbonne Universités, UPMC Univ Paris 06, CNRS, Institut de Biologie Paris-Seine 
+      (IBPS), Biogenèse des Signaux Peptidiques (BIOSIPE), Paris, France.
+LA  - eng
+PT  - Journal Article
+DEP - 20170320
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Antiprotozoal Agents)
+RN  - 0 (DNA, Protozoan)
+RN  - 0 (Unilamellar Liposomes)
+RN  - 0 (temporin-SHa peptide, Pelophylax saharica)
+RN  - 7C782967RD (Ampicillin)
+SB  - IM
+MH  - Ampicillin/pharmacology
+MH  - Anti-Bacterial Agents/chemistry/pharmacokinetics/*pharmacology/toxicity
+MH  - Antimicrobial Cationic Peptides/chemistry/pharmacokinetics/*pharmacology/toxicity
+MH  - Antiprotozoal Agents/chemistry/pharmacokinetics/*pharmacology/toxicity
+MH  - Apoptosis/drug effects
+MH  - Bacteria/drug effects
+MH  - Cell Line
+MH  - Cell Membrane Permeability/drug effects
+MH  - DNA Fragmentation/drug effects
+MH  - DNA, Protozoan/drug effects
+MH  - Dose-Response Relationship, Drug
+MH  - Drug Evaluation, Preclinical
+MH  - Drug Resistance, Bacterial
+MH  - Humans
+MH  - Leishmania/drug effects
+MH  - Membrane Potential, Mitochondrial/drug effects
+MH  - Membrane Potentials/drug effects
+MH  - Time Factors
+MH  - Trypanosoma/drug effects
+MH  - Unilamellar Liposomes/chemistry
+PMC - PMC5358776
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2017/03/21 06:00
+MHDA- 2017/08/30 06:00
+CRDT- 2017/03/21 06:00
+PHST- 2016/12/05 00:00 [received]
+PHST- 2017/02/22 00:00 [accepted]
+PHST- 2017/03/21 06:00 [entrez]
+PHST- 2017/03/21 06:00 [pubmed]
+PHST- 2017/08/30 06:00 [medline]
+AID - PONE-D-16-48008 [pii]
+AID - 10.1371/journal.pone.0174024 [doi]
+PST - epublish
+SO  - PLoS One. 2017 Mar 20;12(3):e0174024. doi: 10.1371/journal.pone.0174024. eCollection 
+      2017.

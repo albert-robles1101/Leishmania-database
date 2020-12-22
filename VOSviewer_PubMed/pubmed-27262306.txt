@@ -1,0 +1,65 @@
+PMID- 27262306
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170321
+LR  - 20190911
+IS  - 1875-5305 (Electronic)
+IS  - 0929-8665 (Linking)
+VI  - 23
+IP  - 8
+DP  - 2016
+TI  - The Amazing World of Peptide Engineering: the Example of Antimicrobial Peptides from 
+      Frogs and Their Analogues.
+PG  - 722-37
+AB  - This review discusses the importance and properties of antimicrobial peptides from 
+      frogs and their synthetic analogues as potential therapeutic alternatives in 
+      fighting not only bacterial infections, but also protozoans involved with the major 
+      neglected diseases, which afflict human populations (e.g., Chagas disease, African 
+      sleeping sickness, Leishmaniasis and malaria). Here, we emphasize their 
+      multifunctional properties such as promising broad-spectrum drugs that target 
+      protozoan parasites too.
+FAU - Guimarães, Aline B
+AU  - Guimarães AB
+FAU - Costa, Fabiano J Q
+AU  - Costa FJ
+FAU - Pires, Osmindo R
+AU  - Pires OR
+FAU - Fontes, Wagner
+AU  - Fontes W
+FAU - Castro, Mariana S
+AU  - Castro MS
+AD  - Laboratory of Toxinology, Department of Physiological Sciences, Institute of 
+      Biology, University of Brasilia, Brasilia/DF, Brazil. mscastro@unb.br.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Netherlands
+TA  - Protein Pept Lett
+JT  - Protein and peptide letters
+JID - 9441434
+RN  - 0 (Anti-Infective Agents)
+RN  - 0 (Peptides)
+SB  - IM
+MH  - Animals
+MH  - Anti-Infective Agents/metabolism/pharmacology/therapeutic use
+MH  - Anura/*metabolism
+MH  - Chagas Disease/drug therapy
+MH  - Humans
+MH  - Leishmaniasis/drug therapy
+MH  - Malaria/drug therapy
+MH  - Parasites/*drug effects
+MH  - Peptides/*metabolism/*pharmacology/therapeutic use
+MH  - Trypanosomiasis, African/drug therapy
+EDAT- 2016/06/06 06:00
+MHDA- 2017/03/23 06:00
+CRDT- 2016/06/06 06:00
+PHST- 2016/04/20 00:00 [received]
+PHST- 2016/05/14 00:00 [revised]
+PHST- 2016/05/18 00:00 [accepted]
+PHST- 2016/06/06 06:00 [entrez]
+PHST- 2016/06/06 06:00 [pubmed]
+PHST- 2017/03/23 06:00 [medline]
+AID - PPL-EPUB-76089 [pii]
+AID - 10.2174/0929866523666160530185137 [doi]
+PST - ppublish
+SO  - Protein Pept Lett. 2016;23(8):722-37. doi: 10.2174/0929866523666160530185137.

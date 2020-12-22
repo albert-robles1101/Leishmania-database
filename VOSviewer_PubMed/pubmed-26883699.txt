@@ -1,0 +1,97 @@
+PMID- 26883699
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161213
+LR  - 20181113
+IS  - 1098-6596 (Electronic)
+IS  - 0066-4804 (Print)
+IS  - 0066-4804 (Linking)
+VI  - 60
+IP  - 4
+DP  - 2016 Apr
+TI  - Identification of Synthetic and Natural Host Defense Peptides with Leishmanicidal 
+      Activity.
+PG  - 2484-91
+LID - 10.1128/AAC.02328-15 [doi]
+AB  - Leishmaniaparasites are a major public health problem worldwide. Effective treatment 
+      of leishmaniasis is hampered by the high incidence of adverse effects to traditional 
+      drug therapy and the emergence of resistance to current therapeutics. A vaccine is 
+      currently not available. Host defense peptides have been investigated as novel 
+      therapeutic agents against a wide range of pathogens. Here we demonstrate that the 
+      antimicrobial peptide LL-37 and the three synthetic peptides E6, L-1018, and RI-1018 
+      exhibit leishmanicidal activity against promastigotes and intramacrophage 
+      amastigotes ofLeishmania donovaniandLeishmania major We also report that 
+      theLeishmaniaprotease/virulence factor GP63 confers protection toLeishmaniafrom the 
+      cytolytic properties of alll-form peptides (E6, L-1018, and LL-37) but not thed-form 
+      peptide RI-1018. The results suggest that RI-1018, E6, and LL-37 are promising 
+      peptides to develop further into components for antileishmanial therapy.
+CI  - Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+FAU - Marr, A K
+AU  - Marr AK
+AD  - Immunity and Infection Research Centre, Vancouver Coastal Health Research Institute, 
+      Department of Medical Genetics, University of British Columbia, Vancouver, British 
+      Columbia, Canada Division of Experimental Biology, Sidra Medical and Research 
+      Center, Outpatient Clinic, Doha, Qatar.
+FAU - Cen, S
+AU  - Cen S
+AD  - Immunity and Infection Research Centre, Vancouver Coastal Health Research Institute, 
+      Department of Medical Genetics, University of British Columbia, Vancouver, British 
+      Columbia, Canada.
+FAU - Hancock, R E W
+AU  - Hancock RE
+AD  - Centre for Microbial Diseases and Immunity Research, Department of Microbiology and 
+      Immunology, University of British Columbia, Vancouver, Canada.
+FAU - McMaster, W R
+AU  - McMaster WR
+AD  - Immunity and Infection Research Centre, Vancouver Coastal Health Research Institute, 
+      Department of Medical Genetics, University of British Columbia, Vancouver, British 
+      Columbia, Canada robm@mail.ubc.ca.
+LA  - eng
+GR  - MOP-74493/Canadian Institutes of Health Research/Canada
+GR  - MOP-84531/Canadian Institutes of Health Research/Canada
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160325
+TA  - Antimicrob Agents Chemother
+JT  - Antimicrobial agents and chemotherapy
+JID - 0315061
+RN  - 0 (Antiprotozoal Agents)
+RN  - 0 (Cathelicidins)
+RN  - 0 (Small Molecule Libraries)
+RN  - 0 (Virulence Factors)
+RN  - 0 (antimicrobial peptide LL-37)
+RN  - EC 3.4.24.- (Metalloendopeptidases)
+RN  - EC 3.4.24.- (glycoprotein gp63, Leishmania)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Antiprotozoal Agents/chemical synthesis/*pharmacology
+MH  - Cathelicidins/pharmacology
+MH  - Cell Line
+MH  - Gene Expression
+MH  - Humans
+MH  - Leishmania donovani/*drug effects/genetics/growth & development
+MH  - Leishmania major/*drug effects/genetics/growth & development
+MH  - Life Cycle Stages/*drug effects/genetics
+MH  - Macrophages/drug effects/parasitology
+MH  - Metalloendopeptidases/genetics/metabolism
+MH  - Organisms, Genetically Modified
+MH  - Parasitic Sensitivity Tests
+MH  - Protective Factors
+MH  - Small Molecule Libraries/chemical synthesis/*pharmacology
+MH  - Stereoisomerism
+MH  - Virulence Factors/genetics/metabolism
+PMC - PMC4808210
+EDAT- 2016/02/18 06:00
+MHDA- 2016/12/15 06:00
+CRDT- 2016/02/18 06:00
+PHST- 2015/10/01 00:00 [received]
+PHST- 2016/02/06 00:00 [accepted]
+PHST- 2016/02/18 06:00 [entrez]
+PHST- 2016/02/18 06:00 [pubmed]
+PHST- 2016/12/15 06:00 [medline]
+AID - AAC.02328-15 [pii]
+AID - 02328-15 [pii]
+AID - 10.1128/AAC.02328-15 [doi]
+PST - epublish
+SO  - Antimicrob Agents Chemother. 2016 Mar 25;60(4):2484-91. doi: 10.1128/AAC.02328-15. 
+      Print 2016 Apr.

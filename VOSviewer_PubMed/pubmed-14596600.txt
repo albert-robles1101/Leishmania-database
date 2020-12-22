@@ -1,0 +1,90 @@
+PMID- 14596600
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040129
+LR  - 20191210
+IS  - 0006-2960 (Print)
+IS  - 0006-2960 (Linking)
+VI  - 42
+IP  - 44
+DP  - 2003 Nov 11
+TI  - Analysis of membrane-binding properties of dermaseptin analogues: relationships 
+      between binding and cytotoxicity.
+PG  - 12866-74
+AB  - To understand relationships between membrane-binding properties of cytolytic 
+      peptides and resulting cytotoxicity, we investigated interactions of dermaseptin 
+      analogues with model bilayers by means of surface plasmon resonance. First, we 
+      tested the system by comparing two native dermaseptins, S1 and S4, whose binding 
+      properties were previously characterized in different experimental systems. 
+      Validation experiments revealed deviations from the one-to-one interaction model and 
+      indicated the binding to proceed by a two-stage mechanism. By calculation of 
+      apparent affinity constants and individual affinities for both steps of the 
+      interaction, the biosensor technology was able to distinguish between surface-bound 
+      peptides that subsequently penetrated into the bilayer and peptides that remained 
+      essentially superficially bound. This data interpretation was sustained after 
+      analysis of a series of dermaseptin S4 derivatives whose binding data were compared 
+      with cytotoxicity, revealing cytolytic activity to correlate mainly with insertion 
+      affinity. The data indicate that the potency of highly cytolytic peptides such as 
+      K(4)K(20)-S4 is not due to the highest membrane adhesion affinity but to the highest 
+      propensity for the inserted state. Similarly, truncated derivatives of 16, 13, and 
+      10 residues showed a progressive reduction in cytotoxicity that best correlated with 
+      progressive reduction in insertion affinity. Support for the adhesion versus 
+      inserted states was provided by proteolytic experiments with RBC-bound peptides that 
+      demonstrated K(4)K(20)-S4 to be protected from enzymatic cleavage, unlike its 13-mer 
+      derivative. Overall, using the two-stage model proved instrumental in investigating 
+      membrane-binding properties of antimicrobial peptides and capable of explaining the 
+      cytolytic properties of closely related analogues.
+FAU - Gaidukov, Leonid
+AU  - Gaidukov L
+AD  - The Laboratory for Antimicrobial Peptides Investigation, Department of Food 
+      Engineering and Biotechnology, Technion-Israel Institute of Technology, Haifa, 
+      Israel.
+FAU - Fish, Alexander
+AU  - Fish A
+FAU - Mor, Amram
+AU  - Mor A
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Validation Study
+PL  - United States
+TA  - Biochemistry
+JT  - Biochemistry
+JID - 0370623
+RN  - 0 (Amphibian Proteins)
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Carrier Proteins)
+RN  - 0 (Cytotoxins)
+RN  - 0 (Lipid Bilayers)
+RN  - 0 (Phosphatidic Acids)
+RN  - 0 (Phosphatidylcholines)
+RN  - 0 (dermaseptin 4 protein, Phyllomedusa)
+RN  - 136212-91-4 (dermaseptin)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - *Amphibian Proteins
+MH  - Animals
+MH  - Antimicrobial Cationic Peptides/*chemistry/toxicity
+MH  - Carrier Proteins/*chemistry/toxicity
+MH  - Cytotoxins/*chemistry/toxicity
+MH  - Erythrocyte Membrane/chemistry
+MH  - Hemolysis
+MH  - Humans
+MH  - Kinetics
+MH  - Leishmania major/chemistry/growth & development
+MH  - Lipid Bilayers/*chemistry
+MH  - Models, Chemical
+MH  - Molecular Sequence Data
+MH  - Phosphatidic Acids/chemistry
+MH  - Phosphatidylcholines/chemistry
+MH  - Protein Binding
+MH  - Surface Plasmon Resonance/methods
+EDAT- 2003/11/05 05:00
+MHDA- 2004/01/30 05:00
+CRDT- 2003/11/05 05:00
+PHST- 2003/11/05 05:00 [pubmed]
+PHST- 2004/01/30 05:00 [medline]
+PHST- 2003/11/05 05:00 [entrez]
+AID - 10.1021/bi034514x [doi]
+PST - ppublish
+SO  - Biochemistry. 2003 Nov 11;42(44):12866-74. doi: 10.1021/bi034514x.

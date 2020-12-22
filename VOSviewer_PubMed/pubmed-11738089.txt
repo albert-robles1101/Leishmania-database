@@ -1,0 +1,102 @@
+PMID- 11738089
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020110
+LR  - 20190610
+IS  - 0006-3002 (Print)
+IS  - 0006-3002 (Linking)
+VI  - 1550
+IP  - 1
+DP  - 2001 Nov 26
+TI  - Anoplin, a novel antimicrobial peptide from the venom of the solitary wasp Anoplius 
+      samariensis.
+PG  - 70-80
+AB  - A novel antimicrobial peptide, anoplin, was purified from the venom of the solitary 
+      wasp Anoplius samariensis. The sequence was mostly analyzed by mass spectrometry, 
+      which was corroborated by solid-phase synthesis. Anoplin, composed of 10 amino acid 
+      residues, Gly-Leu-Leu-Lys-Arg-Ile-Lys-Thr-Leu-Leu-NH2, has a high homology to 
+      crabrolin and mastoparan-X, the mast cell degranulating peptides from social wasp 
+      venoms, and, therefore, can be predicted to adopt an amphipathic alpha-helix 
+      secondary structure. In fact, the circular dichroism (CD) spectra of anoplin in the 
+      presence of trifluoroethanol or sodium dodecyl sulfate showed a high content, up to 
+      55%, of the alpha-helical conformation. A modeling study of anoplin based on its 
+      homology to mastoparan-X supported the CD results. Biological evaluation using the 
+      synthetic peptide revealed that this peptide exhibited potent activity in 
+      stimulating degranulation from rat peritoneal mast cells and broad-spectrum 
+      antimicrobial activity against both Gram-positive and Gram-negative bacteria. 
+      Therefore, this is the first antimicrobial component to be found in the solitary 
+      wasp venom and it may play a key role in preventing potential infection by 
+      microorganisms during prey consumption by their larvae. Moreover, this peptide is 
+      the smallest among the linear alpha-helical antimicrobial peptides hitherto found in 
+      nature, which is advantageous for chemical manipulation and medical application.
+FAU - Konno, K
+AU  - Konno K
+AD  - Center of Study of Social Insects, Department of Biology, Intitute of Biosciences of 
+      Rio Claro, São Paulo State University, Rio Claro, SP, Brazil. kk-gon@rc.unesp.br
+FAU - Hisada, M
+AU  - Hisada M
+FAU - Fontana, R
+AU  - Fontana R
+FAU - Lorenzi, C C
+AU  - Lorenzi CC
+FAU - Naoki, H
+AU  - Naoki H
+FAU - Itagaki, Y
+AU  - Itagaki Y
+FAU - Miwa, A
+AU  - Miwa A
+FAU - Kawai, N
+AU  - Kawai N
+FAU - Nakata, Y
+AU  - Nakata Y
+FAU - Yasuhara, T
+AU  - Yasuhara T
+FAU - Ruggiero Neto, J
+AU  - Ruggiero Neto J
+FAU - de Azevedo, W F Jr
+AU  - de Azevedo WF Jr
+FAU - Palma, M S
+AU  - Palma MS
+FAU - Nakajima, T
+AU  - Nakajima T
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Netherlands
+TA  - Biochim Biophys Acta
+JT  - Biochimica et biophysica acta
+JID - 0217513
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Oligopeptides)
+RN  - 0 (Wasp Venoms)
+RN  - 0 (anoplin)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Anti-Bacterial Agents/chemistry/*isolation & purification/pharmacology
+MH  - Antimicrobial Cationic Peptides
+MH  - Cell Degranulation
+MH  - Chromatography, High Pressure Liquid
+MH  - Circular Dichroism
+MH  - Female
+MH  - Mast Cells/drug effects/physiology
+MH  - Microbial Sensitivity Tests
+MH  - Models, Molecular
+MH  - Oligopeptides/*chemistry/*isolation & purification/pharmacology
+MH  - Rats
+MH  - Sequence Alignment
+MH  - Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+MH  - Wasp Venoms/*chemistry/*isolation & purification/pharmacology
+MH  - Wasps
+EDAT- 2001/12/12 10:00
+MHDA- 2002/01/11 10:01
+CRDT- 2001/12/12 10:00
+PHST- 2001/12/12 10:00 [pubmed]
+PHST- 2002/01/11 10:01 [medline]
+PHST- 2001/12/12 10:00 [entrez]
+AID - S0167-4838(01)00271-0 [pii]
+AID - 10.1016/s0167-4838(01)00271-0 [doi]
+PST - ppublish
+SO  - Biochim Biophys Acta. 2001 Nov 26;1550(1):70-80. doi: 10.1016/s0167-4838(01)00271-0.

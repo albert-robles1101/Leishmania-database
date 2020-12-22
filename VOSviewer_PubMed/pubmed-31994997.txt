@@ -1,0 +1,83 @@
+PMID- 31994997
+OWN - NLM
+STAT- In-Process
+LR  - 20200925
+IS  - 1875-5305 (Electronic)
+IS  - 0929-8665 (Linking)
+VI  - 27
+IP  - 8
+DP  - 2020
+TI  - Effect of Isolated Proteins from Crotalus Durissus Terrificus Venom on Leishmania 
+      (Leishmania) Amazonensis-Infected Macrophages.
+PG  - 718-724
+LID - 10.2174/0929866527666200129152954 [doi]
+AB  - BACKGROUND: Cutaneous and mucocutaneous leishmaniasis are parasitic diseases 
+      characterized by skin manifestations. In Brazil, Leishmania (Leishmania) amazonensis 
+      is one of the etiological agents of cutaneous leishmaniasis. The therapeutic arsenal 
+      routinely employed to treat infected patients is unsatisfactory, especially for 
+      pentavalent antimonials, as they are often highly toxic, poorly tolerated and of 
+      variable effectiveness. This study aimed to evaluate in vitro the leishmanicidal 
+      activity of toxins isolated from Crotalus durissus terrificus venom as a new 
+      approach for the treatment of leishmaniasis. METHODS: The comparative effects of 
+      crotamine, crotoxin, gyrotoxin, convulxin and PLA2 on bone marrow-derived 
+      macrophages infected with L. (L.) amazonensis as well as the release of TGF-β from 
+      the treated macrophages were studied. RESULTS AND DISCUSSION: Crotamine had the 
+      strongest inhibitory effect on parasite growth rate (IC50: 25.65±0.52 μg/mL), while 
+      convulxin showed the weakest inhibitory effect (IC50: 52.7±2.21 μg/mL). In addition, 
+      TGF-β was significantly reduced after the treatment with all toxins evaluated. 
+      CONCLUSION: The Crotalus durissus terrificus toxins used in this study displayed 
+      significant activity against L. (L.) amazonensis, indicating that all of them could 
+      be a potential alternative for the treatment of cutaneous leishmaniasis.
+CI  - Copyright© Bentham Science Publishers; For any queries, please email at 
+      epub@benthamscience.net.
+FAU - Katz, Simone
+AU  - Katz S
+AD  - Department of Medicine, Universidade Nove de Julho (UNINOVE), Rua Vergueiro, 235, 
+      01504-000, Sao Paulo, SP, Brazil.
+FAU - Barbiéri, Clara Lúcia
+AU  - Barbiéri CL
+AD  - Departamento de Microbiologia, Imunologia e Parasitologia, Escola Paulista de 
+      Medicina, Universidade Federal de Sao Paulo, Sao Paulo, SP, Brazil.
+FAU - Soler, Fernanda Paula Martins
+AU  - Soler FPM
+AD  - Department of Medicine, Universidade Nove de Julho (UNINOVE), Rua Vergueiro, 235, 
+      01504-000, Sao Paulo, SP, Brazil.
+FAU - Soares, Andreimar Martins
+AU  - Soares AM
+AD  - Fundacao Oswaldo Cruz, FIOCRUZ, Rua da Beira, 7671, 76812-245, Porto Velho, RO, 
+      Brazil.
+FAU - Chavantes, Maria Cristina
+AU  - Chavantes MC
+AD  - Department of Medicine, Universidade Nove de Julho (UNINOVE), Rua Vergueiro, 235, 
+      01504-000, Sao Paulo, SP, Brazil.
+FAU - Zamuner, Stella Regina
+AU  - Zamuner SR
+AD  - Department of Medicine, Universidade Nove de Julho (UNINOVE), Rua Vergueiro, 235, 
+      01504-000, Sao Paulo, SP, Brazil.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Protein Pept Lett
+JT  - Protein and peptide letters
+JID - 9441434
+SB  - IM
+OTO - NOTNLM
+OT  - Crotalus durissus terrificus toxins
+OT  - Leishmania (Leishmania) amazonensis
+OT  - TGF-β
+OT  - cutaneous leishmaniasis
+OT  - macrophages
+OT  - parasitic diseases
+EDAT- 2020/01/30 06:00
+MHDA- 2020/01/30 06:00
+CRDT- 2020/01/30 06:00
+PHST- 2019/06/03 00:00 [received]
+PHST- 2019/11/13 00:00 [revised]
+PHST- 2019/11/15 00:00 [accepted]
+PHST- 2020/01/30 06:00 [pubmed]
+PHST- 2020/01/30 06:00 [medline]
+PHST- 2020/01/30 06:00 [entrez]
+AID - PPL-EPUB-104064 [pii]
+AID - 10.2174/0929866527666200129152954 [doi]
+PST - ppublish
+SO  - Protein Pept Lett. 2020;27(8):718-724. doi: 10.2174/0929866527666200129152954.

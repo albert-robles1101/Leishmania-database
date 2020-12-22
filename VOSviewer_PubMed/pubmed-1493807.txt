@@ -1,0 +1,71 @@
+PMID- 1493807
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19930311
+LR  - 20061115
+IS  - 0171-9335 (Print)
+IS  - 0171-9335 (Linking)
+VI  - 59
+IP  - 2
+DP  - 1992 Dec
+TI  - Functional and structural damage in Leishmania mexicana exposed to the cationic 
+      peptide dermaseptin.
+PG  - 414-24
+AB  - The effect of dermaseptin (DS), a 34 amino acid residue cationic peptide isolated 
+      from Phyllomedusa sauvagii skin, has been studied on promastigotes of Leishmania 
+      mexicana growing in vitro. Within 5 min of incubation in the presence of DS, the 
+      flagellated parasites lost their motility. DS inhibited promastigote growth by 50% 
+      at a concentration of 3 microM and by 100% at 10 microM. Immunocytochemical, freeze 
+      fracture, label fracture and electron microscopic observations have shown that the 
+      amphipathic peptide generates perturbations of the lipid bilayer leading to altered 
+      permeability of the surface membrane and death of the parasite.
+FAU - Hernandez, C
+AU  - Hernandez C
+AD  - Departamento de Biologia Celular, Universidad Central de Venezuela, Caracas.
+FAU - Mor, A
+AU  - Mor A
+FAU - Dagger, F
+AU  - Dagger F
+FAU - Nicolas, P
+AU  - Nicolas P
+FAU - Hernandez, A
+AU  - Hernandez A
+FAU - Benedetti, E L
+AU  - Benedetti EL
+FAU - Dunia, I
+AU  - Dunia I
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Germany
+TA  - Eur J Cell Biol
+JT  - European journal of cell biology
+JID - 7906240
+RN  - 0 (Amphibian Proteins)
+RN  - 0 (Anti-Infective Agents)
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Cations)
+RN  - 0 (Lipid Bilayers)
+RN  - 0 (Peptides)
+RN  - 136212-91-4 (dermaseptin)
+SB  - IM
+MH  - *Amphibian Proteins
+MH  - Animals
+MH  - Anti-Infective Agents/metabolism/*toxicity
+MH  - *Antimicrobial Cationic Peptides
+MH  - Cations
+MH  - Cell Membrane/drug effects/metabolism
+MH  - Fluorescent Antibody Technique
+MH  - Leishmania mexicana/*drug effects/ultrastructure
+MH  - *Lipid Bilayers
+MH  - Microscopy, Electron
+MH  - Peptides/metabolism/*toxicity
+MH  - Protein Binding
+EDAT- 1992/12/01 00:00
+MHDA- 1992/12/01 00:01
+CRDT- 1992/12/01 00:00
+PHST- 1992/12/01 00:00 [pubmed]
+PHST- 1992/12/01 00:01 [medline]
+PHST- 1992/12/01 00:00 [entrez]
+PST - ppublish
+SO  - Eur J Cell Biol. 1992 Dec;59(2):414-24.

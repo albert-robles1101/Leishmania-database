@@ -1,0 +1,67 @@
+PMID- 18676150
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20081103
+LR  - 20080904
+IS  - 1464-3391 (Electronic)
+IS  - 0968-0896 (Linking)
+VI  - 16
+IP  - 17
+DP  - 2008 Sep 1
+TI  - Synthesis and antimicrobial activity of dermaseptin S1 analogues.
+PG  - 8205-9
+LID - 10.1016/j.bmc.2008.07.032 [doi]
+AB  - Dermaseptins are peptides found in the skin secretions of Phyllomedusinae frogs. 
+      These peptides exert lytic action on some microorganisms without substantial 
+      haemolysis. In an attempt to understand the antimicrobial activity of these peptides 
+      we designed several dermaseptin S1 (ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ) (DS1) 
+      analogues. All peptides were tested on the growth of prokaryotic (Gram-positive and 
+      Gram-negative bacteria) and eukaryotic (the yeast Candida albicans and the protozoon 
+      Leishmania major) organisms. Our data showed a dose-dependent killing effect by most 
+      DS1 derivatives. Maximal antibacterial activity was displayed by a 16-mer peptide 
+      that was more active than native DS1.
+FAU - Savoia, Dianella
+AU  - Savoia D
+AD  - Department of Clinical and Biological Sciences, University of Torino, S. Luigi 
+      Gonzaga Hospital, Regione Gonzole 10, 10143 Orbassano, Torino, Italy.
+FAU - Guerrini, Remo
+AU  - Guerrini R
+FAU - Marzola, Erika
+AU  - Marzola E
+FAU - Salvadori, Severo
+AU  - Salvadori S
+LA  - eng
+PT  - Journal Article
+DEP - 20080720
+PL  - England
+TA  - Bioorg Med Chem
+JT  - Bioorganic & medicinal chemistry
+JID - 9413298
+RN  - 0 (Antimicrobial Cationic Peptides)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Antimicrobial Cationic Peptides/*chemical synthesis/chemistry/*pharmacology
+MH  - Candida albicans/*drug effects/growth & development
+MH  - Dose-Response Relationship, Drug
+MH  - Gram-Negative Bacteria/*drug effects/growth & development
+MH  - Gram-Positive Bacteria/*drug effects/growth & development
+MH  - Leishmania major/*drug effects/growth & development
+MH  - Microbial Sensitivity Tests
+MH  - Molecular Sequence Data
+MH  - Ranidae
+MH  - Structure-Activity Relationship
+EDAT- 2008/08/05 09:00
+MHDA- 2008/11/04 09:00
+CRDT- 2008/08/05 09:00
+PHST- 2008/05/28 00:00 [received]
+PHST- 2008/07/04 00:00 [revised]
+PHST- 2008/07/16 00:00 [accepted]
+PHST- 2008/08/05 09:00 [pubmed]
+PHST- 2008/11/04 09:00 [medline]
+PHST- 2008/08/05 09:00 [entrez]
+AID - S0968-0896(08)00645-7 [pii]
+AID - 10.1016/j.bmc.2008.07.032 [doi]
+PST - ppublish
+SO  - Bioorg Med Chem. 2008 Sep 1;16(17):8205-9. doi: 10.1016/j.bmc.2008.07.032. Epub 2008 
+      Jul 20.
